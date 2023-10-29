@@ -1,4 +1,4 @@
-# IoT_doorlock_elevator_using_arduino
+# IoT doorlock with elevator using arduino
 ## doorlock with elevator code using arduino
 ### Working Video
 - Doorlock: https://youtu.be/CkoGc2boxuY
